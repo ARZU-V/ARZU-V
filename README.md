@@ -1,7 +1,7 @@
 
 
 # Hello World!, I'm Arjit, an Indian Web Developer 👋🏼:
-🛜 currently working on my own IDS<br>👨🏼‍🎓 studying in IIIT Dharwad<br>👨🏼‍💻 working as a web developer since 2022 
+🛜 currently working on my own Physics Engine<br>👨🏼‍🎓 studying in IIIT Dharwad<br>👨🏼‍💻 working as a web developer since 2022 
 
 
 # 💻 Tech Stack:
